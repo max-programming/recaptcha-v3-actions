@@ -1,6 +1,6 @@
 ## Google Recaptcha V3
 
-This is the code for the tutorial of **How to use Google Recaptcha V3 in Next.js 14 using server actions?**.
+This is the code for the tutorial of [**How to use Google Recaptcha V3 in Next.js 14 using server actions?**](https://youtu.be/w-EbCTxI47o).
 
 This branch contains the starter code.
 
