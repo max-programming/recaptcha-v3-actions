@@ -1,5 +1,7 @@
 ## Google Recaptcha V3
 
+[![YouTube](http://i.ytimg.com/vi/w-EbCTxI47o/hqdefault.jpg)](https://www.youtube.com/watch?v=w-EbCTxI47o)
+
 This is the code for the tutorial of [**How to use Google Recaptcha V3 in Next.js 14 using server actions?**](https://youtu.be/w-EbCTxI47o).
 
 This branch contains the starter code.
